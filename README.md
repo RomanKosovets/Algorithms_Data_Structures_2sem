@@ -15,18 +15,18 @@
   6. ~~8F - Лабиринт~~
 
 ## [Лабораторная работа №9](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/2sem_Description/9%20Lab.pdf):
-  1. [Топологическая сортировка]
-  2. [Поиск цикла]()
-  3. [Двудольный граф]()
-  4. ~~Конденсация графа~~
-  5. [Гамильтонов путь]()
-  6. [Игра]()
+  1. [9A - Топологическая сортировка](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_9/9A.cpp)
+  2. [9B - Поиск цикла](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_9/9B.cpp)
+  3. [9C - Двудольный граф](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_9/9C.cpp)
+  4. ~~9D - Конденсация графа~~
+  5. [9E - Гамильтонов путь](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_9/9E.cpp)
+  6. [9F - Игра](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_9/9F.cpp)
 
 ## [Лабораторная работа №10](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/2sem_Description/10%20Lab.pdf):
-  1. [Степени вершин]()
-  2. [Остовное дерево]()
-  3. [Остовное дерево 3: Месть дерева]()
-  4. ~~Алгоритм двух китайцев~~
+  1. [10A - Степени вершин](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_10/10A.cpp)
+  2. [10B - Остовное дерево](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_10/10B.cpp)
+  3. [10C - Остовное дерево 3: Месть дерева](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_10/10C.cpp)
+  4. ~~10D - Алгоритм двух китайцев~~
   
 ## [Лабораторная работа №11](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/2sem_Description/11%20Lab.pdf):
   1. [Кратчайший путь(1)]()

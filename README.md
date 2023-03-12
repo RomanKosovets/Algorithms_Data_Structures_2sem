@@ -36,18 +36,18 @@
   5. [11E - Цикл отрицательного веса](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_11/11E.cpp)
   
 ## [Лабораторная работа №12](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/2sem_Description/12%20Lab.pdf):
-  1. [12A - Наибольшая возрастающая последовательность]()
-  2. [12B - Наибольшая возрастающая последовательность 2]()
+  1. [12A - Наибольшая возрастающая последовательность](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_12/12A.cpp)
+  2. [12B - Наибольшая возрастающая последовательность 2](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_12/12B.cpp)
   3. ~~12C - Наибольшая общая подпоследовательность~~
   4. ~~12D - Ход конем 2~~
-  5. [12E - Дерево]()
-  6. [12F - Дерево сумма]()
+  5. [12E - Дерево](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_12/12E.cpp)
+  6. [12F - Дерево сумма](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_12/12F.cpp)
   7. ~~12G - Рюкзак~~
   8. ~~12H - Футболки~~
-  9. [I12A - Максимальный поток]()
- 10. [I12B - Паросочетание]()
- 11. [I12C - Декомпозиция потока]()
- 12. [I12D - Циркуляция]()
+  9. [I12A - Максимальный поток](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_12/I12A%20(MaxFlow).cpp)
+ 10. [I12B - Паросочетание](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_12/I12B%20(Matching).cpp)
+ 11. [I12C - Декомпозиция потока](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_12/I12C%20(Decomposition).cpp)
+ 12. [I12D - Циркуляция](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_12/I12D%20(Circulacion).cpp)
 
 ## [Лабораторная работа №13](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/2sem_Description/13%20Lab.pdf):
   1. [13A - Наивный поиск подстроки в строке](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_13/13A.cpp)

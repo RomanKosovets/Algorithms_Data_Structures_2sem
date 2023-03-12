@@ -29,29 +29,29 @@
   4. ~~10D - Алгоритм двух китайцев~~
   
 ## [Лабораторная работа №11](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/2sem_Description/11%20Lab.pdf):
-  1. [Кратчайший путь(1)]()
-  2. [Кратчайший путь от каждой вершины до каждой]()
-  3. [Кратчайший путь(2)]()
-  4. ~~Кратчайшие пути и прочее~~
-  5. [Цикл отрицательного веса]()
+  1. [11A - Кратчайший путь(1)](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_11/11A.cpp)
+  2. [11B - Кратчайший путь от каждой вершины до каждой](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_11/11B.cpp)
+  3. [11C - Кратчайший путь(2)](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_11/11C.cpp)
+  4. ~~11D - Кратчайшие пути и прочее~~
+  5. [11E - Цикл отрицательного веса](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_11/11E.cpp)
   
 ## [Лабораторная работа №12](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/2sem_Description/12%20Lab.pdf):
-  1. [Наибольшая возрастающая последовательность]()
-  2. [Наибольшая возрастающая последовательность 2]()
-  3. ~~Наибольшая общая подпоследовательность~~
-  4. ~~Ход конем 2~~
-  5. [Дерево]()
-  6. [Дерево сумма]()
-  7. ~~Рюкзак~~
-  8. ~~Футболки~~
-  9. [Максимальный поток]()
- 10. [Паросочетание]()
- 11. [Декомпозиция потока]()
- 12. [Циркуляция]()
+  1. [12A - Наибольшая возрастающая последовательность]()
+  2. [12B - Наибольшая возрастающая последовательность 2]()
+  3. ~~12C - Наибольшая общая подпоследовательность~~
+  4. ~~12D - Ход конем 2~~
+  5. [12E - Дерево]()
+  6. [12F - Дерево сумма]()
+  7. ~~12G - Рюкзак~~
+  8. ~~12H - Футболки~~
+  9. [I12A - Максимальный поток]()
+ 10. [I12B - Паросочетание]()
+ 11. [I12C - Декомпозиция потока]()
+ 12. [I12D - Циркуляция]()
 
 ## [Лабораторная работа №13](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/2sem_Description/13%20Lab.pdf):
-  1. [Наивный поиск подстроки в строке]()
-  2. [Быстрый поиск подстроки в строке]()
-  3. [Префикс-функция]()
-  4. [Автомат КМП]()
-  5. ~~Ахо-Корасик~~
+  1. [13A - Наивный поиск подстроки в строке](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_13/13A.cpp)
+  2. [13B - Быстрый поиск подстроки в строке](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_13/13B.cpp)
+  3. [13C - Префикс-функция](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_13/13C.cpp)
+  4. [13D - Автомат КМП](https://github.com/RomanKosovets/Algorithms_Data_Structures_2sem/blob/main/Lab_13/13D.cpp)
+  5. ~~13E - Ахо-Корасик~~
